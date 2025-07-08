@@ -17,7 +17,7 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground">
-              My projects span AI agents, data pipelines, dashboards, and full-stack web apps — combining technologies like Python, LangChain, SQL, React, and FastAPI. Whether it’s crafting backend logic, deploying ML models, or designing intuitive UIs, I enjoy turning ideas into impactful products.
+              My projects span AI agents, data pipelines, dashboards, and full-stack web apps — combining technologies like Python, LangChain, LangGraph, LangFuse and FastAPI. Whether it’s crafting backend logic, deploying ML models, or designing intuitive UIs, I enjoy turning ideas into impactful products.
             </p>
 
             <p className="text-muted-foreground">
@@ -47,7 +47,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">AI & LLM Engineering</h4>
                   <p className="text-muted-foreground">
-                    Designing AI agents and prototypes with LangChain, OpenAI, and vector databases like Qdrant and FAISS.
+                    Designing AI agents and prototypes with LangChain, LangGraph, and vector databases like Qdrant and FAISS.
                   </p>
                 </div>
               </div>
@@ -75,7 +75,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Data Engineering & Analytics</h4>
                   <p className="text-muted-foreground">
-                    Crafting data pipelines, conducting exploratory analysis, and building BI dashboards using SQL, Pandas, PySpark, and Power BI.
+                    Designing scalable pipelines, deploying workflows on AWS (S3, Lambda, EC2), and enforcing guardrails for production. Experienced in SQL, Pandas, PySpark, and Power BI for analysis and visualization.
                   </p>
                 </div>
               </div>
